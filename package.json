@@ -1,0 +1,34 @@
+{
+    "name": "verta-it-themes",
+    "displayName": "Verta IT Themes",
+    "description": "Verta IT Themes for Visual Studio Code",
+    "author": {
+        "name": "Sebastian Bąbka"
+    },
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/Verta-IT/vsc-themes.git"
+	},
+    "homepage": "https://github.com/Verta-IT/vsc-themes.git",
+    "publisher": "Verta IT",
+    "version": "1.0.0",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Verta IT Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/verta-it-dark-theme.json"
+            }
+        ]
+    },
+    "keywords": [
+		"theme"
+	]
+}
