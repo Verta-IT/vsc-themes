@@ -11,7 +11,7 @@
 	},
     "homepage": "https://github.com/Verta-IT/vsc-themes.git",
     "publisher": "Verta IT",
-    "version": "1.0.0",
+    "version": "1.1.0.0",
     "license": "MIT",
     "engines": {
         "vscode": "^1.56.0"
